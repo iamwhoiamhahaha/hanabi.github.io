@@ -15,7 +15,7 @@ module.exports = function (context, options) {
           rules: [
             {
               test: /image-generator.*yml$/,
-              use: getFileLoaderUtils().rules.svg().use.concat([{
+              use: getFileLoaderUtils().rules.svg().oneOf[0].use.concat([{
                 loader: "shell-loader",
                 options: {
                   script: `bash ${createSVGScriptPath}`,

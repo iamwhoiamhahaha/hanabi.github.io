@@ -1,6 +1,7 @@
 module.exports = {
   mainSidebar: [
     'about',
+    /*
     'beginner',
     'how-to-join',
     'learning-path',
@@ -96,5 +97,6 @@ module.exports = {
       ],
     },
     'convention-attribution',
+    */
   ],
 };

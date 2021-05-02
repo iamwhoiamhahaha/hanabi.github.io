@@ -14,6 +14,7 @@ import TwoSave from '@site/image-generator/yml/beginner/2-save.yml';
 import FiveSave from '@site/image-generator/yml/beginner/5-save.yml';
 import CriticalSave from '@site/image-generator/yml/beginner/critical-save.yml';
 import DelayedPlayClue from '@site/image-generator/yml/beginner/delayed-play-clue.yml';
+/*
 import GoodTouchPrinciple1 from '@site/image-generator/yml/beginner/good-touch-principle-1.yml';
 import GoodTouchPrinciple2 from '@site/image-generator/yml/beginner/good-touch-principle-2.yml';
 import GoodTouchPrinciple3 from '@site/image-generator/yml/beginner/good-touch-principle-3.yml';
@@ -23,6 +24,7 @@ import Prompt3 from '@site/image-generator/yml/beginner/prompt-3.yml';
 import Prompt4 from '@site/image-generator/yml/beginner/prompt-4.yml';
 import Finesse1 from '@site/image-generator/yml/beginner/finesse-1.yml';
 import Finesse2 from '@site/image-generator/yml/beginner/finesse-2.yml';
+*/
 
 - Are you looking to start playing Hanabi with the *Hyphen-ated Group*? Fantastic - we are always looking to welcome new players. Take 15 minutes and go over this guide so that you can get up to speed with the basics.
 - Alternatively, are you looking to learn some solid fundamental strategies to use to play Hanabi with your own group of friends? Feel free to adopt these strategies.
