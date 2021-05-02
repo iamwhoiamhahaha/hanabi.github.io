@@ -13,8 +13,8 @@ import LeftMostFocus from '@site/image-generator/yml/beginner/left-most-focus.ym
 import TwoSave from '@site/image-generator/yml/beginner/2-save.yml';
 import FiveSave from '@site/image-generator/yml/beginner/5-save.yml';
 import CriticalSave from '@site/image-generator/yml/beginner/critical-save.yml';
-import DelayedPlayClue from '@site/image-generator/yml/beginner/delayed-play-clue.yml';
 /*
+import DelayedPlayClue from '@site/image-generator/yml/beginner/delayed-play-clue.yml';
 import GoodTouchPrinciple1 from '@site/image-generator/yml/beginner/good-touch-principle-1.yml';
 import GoodTouchPrinciple2 from '@site/image-generator/yml/beginner/good-touch-principle-2.yml';
 import GoodTouchPrinciple3 from '@site/image-generator/yml/beginner/good-touch-principle-3.yml';
